@@ -1,2 +1,2 @@
 # accommodation-booking-platform
-a full-stack web application.
+This project is a full-stack web application that simplifies the process of discovering and booking accommodations. The platform uses ReactJS for front-end, Node.js and Express for back-end, and MongoDB for database, results in a smooth and simple user experience. Users can easily search for homes, view additional information, and make reservations. including user authentication, dynamic filtering, and responsive design.
